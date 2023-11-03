@@ -52,7 +52,7 @@
 - **Uppgift:** Skapa en grundläggande `InventoryManager`-klass för att hantera lager av produkter.
 - **Tester:** Använd xUnit för att testa att produkter kan läggas till, uppdateras och tas bort från lagret.
 
-## Övningar med FakeItEasy
+## Övningar med FakeItEasy (Alla interface som behövs för resten av övningarna finns längst ner [Här](#interface-för-övningsuppgifterna-11-20))
 
 ### 11. E-posttjänst Mocking
 
