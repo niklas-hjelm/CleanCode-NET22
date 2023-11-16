@@ -21,16 +21,12 @@ Utöver detta ska du implementera en ny huvudfunktionalitet med hjälp av ett de
   
 ### Väl Godkänt
 
-* Utöver API:et ska även Användarhantering implementeras
-  * Kryptering
-  * Authentication
-  * (Authorization)
 * Ytterligare ny en ny huvudfunktionalitet skall implementeras med hjälp av ett designmönster utöver de som nämnts i G-kraven
 * En enkel frontend som nyttjar apiet i valfritt språk och ramverk där man kan registrera sig, logga in, se produkter och lägga till ordrar samt ändra sina ordrar.
 
 ## Redovisning
 
-Uppgiften är individuell och görs på Github Classroom: [här](https://classroom.github.com/a/2oliXywA)
+Uppgiften är individuell och görs på Github Classroom: [här](h)
 
 ## Inlämnning sker före deadline
 Om man inte lämnar in före deadline kommer man att få en ny uppgift för komplettering. Om man lämnar in ofärdigt arbete före deadline så får man komplettera samma uppgift.
