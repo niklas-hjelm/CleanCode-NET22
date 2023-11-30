@@ -8,7 +8,7 @@ Kunden som helt saknar expertis inom IT och mjukvara har nu bett oss att försö
 
 ## Uppgift
 
-Du ska med hjälpav TDD, städa API-et och refaktorera det så att det följer SOLID för att möjliggöra eventuell vidareutveckling. Du ska också implementera ``Repository Pattern`` med ``Unit of Work`` för att göra hanteringen av data mer konsekvent och robust.
+Du ska med hjälp av TDD, städa API-et och refaktorera det så att det följer SOLID för att möjliggöra eventuell vidareutveckling. Du ska också implementera ``Repository Pattern`` med ``Unit of Work`` för att göra hanteringen av data mer konsekvent och robust.
 
 Du ska implementera enhetstester för all funktionalitet i API:et.
 
