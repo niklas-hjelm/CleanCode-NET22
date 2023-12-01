@@ -16,12 +16,20 @@
 
 ## Slides
 
+* [Slides Clean Code (Från Förra året)](./assets/Slides/Clean%20Code.pdf)
+* [Slides TDD](./assets/Slides/TDD%20och%20BDD.pdf)
+* [Slides Unit Tests och Test Doubles](./assets/Slides/Unit%20Tests%20och%20Test%20Doubles.pdf)
+
 ## Övningar
 
 * [Introövningar](./assets/ovningarTDD.md)
 * [Övningar Unit Tester](./assets/ÖvningarUnitTester.md)
+* [Övningar Docker](./assets/ÖvningarDocker.md)
 
 ## Livekod
+
+* [Niklas Lösningar på Bernts Övningar](https://github.com/niklas-hjelm/BerntGastarNiklasLosningar)
+* [Niklas Livekod Unit Tester](https://github.com/niklas-hjelm/xUnitDemo)
 
 ## Labbar
 
