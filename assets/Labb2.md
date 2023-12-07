@@ -4,7 +4,7 @@ Ett sätt att bygga upp funktionalitet åt en större organisation eller företa
 arkitekturmönstret mikrotjänster, vilket både löser en hel del problem men samtidigt introducerar
 nya svårigheter.
 
-Denna labben går ut på att utveckla två stycken ``microservices`` och en ``API-Gateway`` som tillsammans utgör en webbtjänst. **Varje** medlem i gruppen ansvarar för var sin ``microservice``.
+Denna labben går ut på att utveckla var sin ``microservices`` och en ``API-Gateway`` som tillsammans utgör en webbtjänst. **Varje** medlem i gruppen ansvarar för var sin ``microservice``.
 
 Vi vill kunna lägga till samt läsa information
 från tjänsterna vilket gör att dessa behöver supporta minst **GET** och **POST**. Men vill man kan man
