@@ -65,7 +65,7 @@ Ni ska lämna in det som behövs för att köra projektet med eventuella anvisni
 
 * Ni har en(eller flera) API-spec för alla delar
 * Frågorna i steg 3 är besvarade tydligt och med självreflektion
-* Det ska gå att utföra minst **Get** och **Post** requests på båda microservices.
+* Det ska gå att utföra minst **Get** och **Post** requests på alla microservices.
 * Ni har utvecklat projektet på ett sätt som är löst kopplat
   
 ### Krav för VG
