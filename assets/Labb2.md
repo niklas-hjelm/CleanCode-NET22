@@ -31,7 +31,8 @@ länk till profilbild m.m. och en annan tjänst som lagrar meddelanden med en ru
 ## Del 2: Microservices och API-Gateway
 
 Implementera microservices och API Gateway. Varje medlem i gruppen ska ansvara för en microservice.
-Upprepa 2.0 Tills ni är klara.
+
+goto Del 2
 
 ## Del 3: Reflektioner och Analys
 
