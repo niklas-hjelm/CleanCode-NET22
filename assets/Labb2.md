@@ -1,4 +1,4 @@
-# Labb 2 - Micro services och Test
+# Labb 2 - MicroServices
 
 Ett sätt att bygga upp funktionalitet åt en större organisation eller företag är att tillämpa
 arkitekturmönstret mikrotjänster, vilket både löser en hel del problem men samtidigt introducerar
