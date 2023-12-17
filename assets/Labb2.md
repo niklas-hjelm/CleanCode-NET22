@@ -1,10 +1,10 @@
-# Labb 2 - Micro services och Test
+# Labb 2 - MicroServices
 
 Ett sätt att bygga upp funktionalitet åt en större organisation eller företag är att tillämpa
 arkitekturmönstret mikrotjänster, vilket både löser en hel del problem men samtidigt introducerar
 nya svårigheter.
 
-Denna labben går ut på att utveckla två stycken ``microservices`` och en ``API-Gateway`` som tillsammans utgör en webbtjänst. **Varje** medlem i gruppen ansvarar för var sin ``microservice``.
+Denna labben går ut på att utveckla var sin ``microservices`` och en ``API-Gateway`` som tillsammans utgör en webbtjänst. **Varje** medlem i gruppen ansvarar för var sin ``microservice``.
 
 Vi vill kunna lägga till samt läsa information
 från tjänsterna vilket gör att dessa behöver supporta minst **GET** och **POST**. Men vill man kan man
@@ -31,7 +31,8 @@ länk till profilbild m.m. och en annan tjänst som lagrar meddelanden med en ru
 ## Del 2: Microservices och API-Gateway
 
 Implementera microservices och API Gateway. Varje medlem i gruppen ska ansvara för en microservice.
-Upprepa 2.0 Tills ni är klara.
+
+goto Del 2
 
 ## Del 3: Reflektioner och Analys
 
@@ -65,7 +66,7 @@ Ni ska lämna in det som behövs för att köra projektet med eventuella anvisni
 
 * Ni har en(eller flera) API-spec för alla delar
 * Frågorna i steg 3 är besvarade tydligt och med självreflektion
-* Det ska gå att utföra minst **Get** och **Post** requests på båda microservices.
+* Det ska gå att utföra minst **Get** och **Post** requests på alla microservices.
 * Ni har utvecklat projektet på ett sätt som är löst kopplat
   
 ### Krav för VG
