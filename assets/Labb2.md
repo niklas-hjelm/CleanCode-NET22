@@ -74,4 +74,5 @@ Ni ska lämna in det som behövs för att köra projektet med eventuella anvisni
 * Man har tillämpat SOLID i utvecklingen
 
 ## Deadline är 30/12-2023 kl 23:59
+
 Sen inlämning innebär komplettrering i Februari.
